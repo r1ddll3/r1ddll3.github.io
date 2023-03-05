@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://r1ddll3.github.io/sitemap.xml

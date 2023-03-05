@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cryptography on R1ddl3</title>
+    <link>https://r1ddll3.github.io/tags/cryptography/</link>
+    <description>Recent content in Cryptography on R1ddl3</description>
+    <image>
+      <url>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 May 2022 11:51:34 +0200</lastBuildDate><atom:link href="https://r1ddll3.github.io/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BYUCTF | XQR</title>
+      <link>https://r1ddll3.github.io/ctfs/byuctf/crypto/xqr/</link>
+      <pubDate>Sat, 28 May 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/byuctf/crypto/xqr/</guid>
+      <description>Solving XQR Cryptography Challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
