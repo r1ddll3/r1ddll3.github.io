@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://r1ddll3.github.io/malware-analysis/skulllocker/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
     <loc>https://r1ddll3.github.io/tags/malware-analysis/</loc>
     <lastmod>2023-03-11T06:53:09+02:00</lastmod>
   </url><url>
@@ -15,9 +18,6 @@
     <lastmod>2023-03-11T06:53:09+02:00</lastmod>
   </url><url>
     <loc>https://r1ddll3.github.io/tags/skulllocker/</loc>
-    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/malware-analysis/skulllocker/</loc>
     <lastmod>2023-03-11T06:53:09+02:00</lastmod>
   </url><url>
     <loc>https://r1ddll3.github.io/tags/</loc>
