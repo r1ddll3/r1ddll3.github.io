@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://r1ddll3.github.io/tags/malware-analysis/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/malware-analysis/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/reverse-engineering/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/skulllocker/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/malware-analysis/skulllocker/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/</loc>
+    <lastmod>2023-03-11T06:53:09+02:00</lastmod>
+  </url><url>
     <loc>https://r1ddll3.github.io/malware-analysis/redlinestealer/</loc>
     <lastmod>2023-03-05T22:30:48+02:00</lastmod>
   </url><url>
-    <loc>https://r1ddll3.github.io/tags/malware-analysis/</loc>
-    <lastmod>2023-03-05T22:30:48+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/malware-analysis/</loc>
-    <lastmod>2023-03-05T22:30:48+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/</loc>
-    <lastmod>2023-03-05T22:30:48+02:00</lastmod>
-  </url><url>
     <loc>https://r1ddll3.github.io/tags/redlinestealer/</loc>
-    <lastmod>2023-03-05T22:30:48+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/tags/reverse-engineering/</loc>
-    <lastmod>2023-03-05T22:30:48+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/tags/</loc>
     <lastmod>2023-03-05T22:30:48+02:00</lastmod>
   </url><url>
     <loc>https://r1ddll3.github.io/dfir/</loc>
@@ -47,19 +53,34 @@
     <loc>https://r1ddll3.github.io/dfir/soc-tips/data-exfiltration/</loc>
     <lastmod>2022-10-21T00:04:34+02:00</lastmod>
   </url><url>
+    <loc>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/bus/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/mem/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/blackhatmea-qualifications-2022/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/ctfs/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/ctfs/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/forensics/</loc>
+    <lastmod>2022-10-02T00:04:34+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/ctfs/blackhatmea/web/jimmy/</loc>
+    <lastmod>2022-10-02T00:04:33+02:00</lastmod>
+  </url><url>
+    <loc>https://r1ddll3.github.io/tags/web/</loc>
+    <lastmod>2022-10-02T00:04:33+02:00</lastmod>
+  </url><url>
     <loc>https://r1ddll3.github.io/tags/ctf-jordan-qualifications-2022/</loc>
     <lastmod>2022-09-30T11:51:34+02:00</lastmod>
   </url><url>
     <loc>https://r1ddll3.github.io/ctfs/ctfjordan-2022/forensics/filterition-2/</loc>
-    <lastmod>2022-09-30T11:51:34+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/ctfs/</loc>
-    <lastmod>2022-09-30T11:51:34+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/tags/ctfs/</loc>
-    <lastmod>2022-09-30T11:51:34+02:00</lastmod>
-  </url><url>
-    <loc>https://r1ddll3.github.io/tags/forensics/</loc>
     <lastmod>2022-09-30T11:51:34+02:00</lastmod>
   </url><url>
     <loc>https://r1ddll3.github.io/tags/ascwg-finals-2022/</loc>
