@@ -1,0 +1,29 @@
+{{- with site.Params.homeInfoParams }}
+{{- $nkiStyle := (resources.Get "css/core/style.css") }}
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>$(R1ddl3)</title>
+    <link crossorigin="anonymous" href="{{ $nkiStyle.RelPermalink }}" integrity="{{ $nkiStyle.Data.Integrity }}" rel="preload stylesheet" as="style">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+    <section id="hero" class="s-hero target-section">
+        <div class="s-hero__bg rellax" data-rellax-speed="-7"></div>
+        <div class="row s-hero__content">
+            <div class="column">
+                <h2 style="color:#18978b">{{ .Title }}</h2><br>
+                <div class="s-hero__content-about">
+                    <h3><span class="anim-text"></span></h3><br><br>
+                    <h3>
+                        <span>"Turn every system into a security sensor"</span> <a class="smoothscroll" href="#about"></a>
+                    </h3>
+             <footer class="entry-footer">
+                    {{ partial "social_icons.html" site.Params.socialIcons }}
+            </footer>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+{{- end -}}

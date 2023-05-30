@@ -1,0 +1,147 @@
+baseURL: "https://r1ddll3.github.io"
+title: R1ddl3
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: R1ddl3
+  description: "R1ddl3 Security Blog"
+  keywords: [Blog, Portfolio, Security Researcher]
+  author: R1ddl3
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://i.ibb.co/DWKRt3n/b.png"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "R1ddl3"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Hello there
+    subtitle: "I'm Mohamed AdeL | Known As R1ddl3 | Security Researcher"
+    imageUrl: "https://i.imgur.com/pofrjfZ.jpeg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: My PiC
+    buttons:
+      - name: Write-ups
+        url: write-ups
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi Hackers \U0001F44B"
+    Content: I'm R1ddl3, Security Analyst and CTF Player @b3R4bb1t$
+    writeUBTN: Write-ups
+    imageLink: "https://i.ibb.co/DWKRt3n/b.png"
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mohamed-adel-67508a230/"
+    - name: facebook
+      url: "https://www.facebook.com/mo.adel0x3"
+
+  analytics:
+    google:
+      SiteVerificationTag: "CTFS - Security Blog | Hacking | Malware Analysis | SOC Analyst | Blue Team | Defenders"
+    bing:
+      SiteVerificationTag: "CTFS - Security Blog | Hacking | Malware Analysis | SOC Analyst | Blue Team | Defenders"
+    yandex:
+      SiteVerificationTag: "CTFS - Security Blog | Hacking | Malware Analysis | SOC Analyst | Blue Team | Defenders"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: Threat Intel
+      name: Threat Intel
+      url: /threatintel/
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 10
+    - identifier: DFIR
+      name: DFIR
+      url: /DFIR/
+      weight: 10    
+      weight: 10
+    - identifier: CTFs
+      name: CTFs
+      url: /ctfs/
+      weight: 10
+    - identifier: Malware Analysis
+      name: Malware Analysis
+      url: /malware-analysis/
+      weight: 10
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
