@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on R1ddl3</title>
+    <link>https://r1ddll3.github.io/tags/</link>
+    <description>Recent content in Tags on R1ddl3</description>
+    <image>
+      <url>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 May 2023 14:25:15 +0200</lastBuildDate><atom:link href="https://r1ddll3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacking Forums</title>
+      <link>https://r1ddll3.github.io/tags/hacking-forums/</link>
+      <pubDate>Tue, 30 May 2023 14:25:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/hacking-forums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat Intel</title>
+      <link>https://r1ddll3.github.io/tags/threat-intel/</link>
+      <pubDate>Tue, 30 May 2023 14:25:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/threat-intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phishing</title>
+      <link>https://r1ddll3.github.io/tags/phishing/</link>
+      <pubDate>Thu, 20 Apr 2023 04:53:31 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTFS</title>
+      <link>https://r1ddll3.github.io/tags/ctfs/</link>
+      <pubDate>Sun, 02 Apr 2023 23:38:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/ctfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse</title>
+      <link>https://r1ddll3.github.io/tags/reverse/</link>
+      <pubDate>Sun, 02 Apr 2023 23:38:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/reverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VishwaCTF</title>
+      <link>https://r1ddll3.github.io/tags/vishwactf/</link>
+      <pubDate>Sun, 02 Apr 2023 23:38:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/vishwactf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Analysis</title>
+      <link>https://r1ddll3.github.io/tags/malware-analysis/</link>
+      <pubDate>Sat, 11 Mar 2023 06:53:09 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/malware-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse engineering</title>
+      <link>https://r1ddll3.github.io/tags/reverse-engineering/</link>
+      <pubDate>Sat, 11 Mar 2023 06:53:09 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SkullLocker</title>
+      <link>https://r1ddll3.github.io/tags/skulllocker/</link>
+      <pubDate>Sat, 11 Mar 2023 06:53:09 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/skulllocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RedLineStealer</title>
+      <link>https://r1ddll3.github.io/tags/redlinestealer/</link>
+      <pubDate>Sun, 05 Mar 2023 22:30:48 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/redlinestealer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOC</title>
+      <link>https://r1ddll3.github.io/tags/soc/</link>
+      <pubDate>Wed, 02 Nov 2022 02:27:46 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types of Monitoring</title>
+      <link>https://r1ddll3.github.io/tags/types-of-monitoring/</link>
+      <pubDate>Wed, 02 Nov 2022 02:27:46 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/types-of-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Logging</title>
+      <link>https://r1ddll3.github.io/tags/windows-logging/</link>
+      <pubDate>Fri, 28 Oct 2022 00:23:50 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/windows-logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Exfiltration</title>
+      <link>https://r1ddll3.github.io/tags/data-exfiltration/</link>
+      <pubDate>Fri, 21 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/data-exfiltration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlackHatMEA Qualifications-2022</title>
+      <link>https://r1ddll3.github.io/tags/blackhatmea-qualifications-2022/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/blackhatmea-qualifications-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>https://r1ddll3.github.io/tags/forensics/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://r1ddll3.github.io/tags/web/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:33 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTF Jordan Qualifications-2022</title>
+      <link>https://r1ddll3.github.io/tags/ctf-jordan-qualifications-2022/</link>
+      <pubDate>Fri, 30 Sep 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/ctf-jordan-qualifications-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASCWG-Finals-2022</title>
+      <link>https://r1ddll3.github.io/tags/ascwg-finals-2022/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/ascwg-finals-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSINT</title>
+      <link>https://r1ddll3.github.io/tags/osint/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/osint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BYUCTF</title>
+      <link>https://r1ddll3.github.io/tags/byuctf/</link>
+      <pubDate>Sat, 28 May 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/byuctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://r1ddll3.github.io/tags/cryptography/</link>
+      <pubDate>Sat, 28 May 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

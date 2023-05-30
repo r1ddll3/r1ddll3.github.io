@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VishwaCTF on R1ddl3</title>
+    <link>https://r1ddll3.github.io/tags/vishwactf/</link>
+    <description>Recent content in VishwaCTF on R1ddl3</description>
+    <image>
+      <url>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Apr 2023 23:38:15 +0200</lastBuildDate><atom:link href="https://r1ddll3.github.io/tags/vishwactf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VishwaCTF 2023 -   Reverse Wednesday Thursday Friday</title>
+      <link>https://r1ddll3.github.io/ctfs/vishwactf/wednesday_thursday/</link>
+      <pubDate>Sun, 02 Apr 2023 23:38:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/vishwactf/wednesday_thursday/</guid>
+      <description>We were given a file and that file was ELF and we can determine that by using DIE After we open the file in IDA Pro and press F5 to view the pseudocode we will see below code The code performs a series of mathematical conditions using the characters in the string s and checks if the results are equal to certain specific values. If all the conditions are matached, the program will print a message that tells us if the input is valid or invalid.</description>
+    </item>
+    
+  </channel>
+</rss>

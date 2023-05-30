@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SOC on R1ddl3</title>
+    <link>https://r1ddll3.github.io/tags/soc/</link>
+    <description>Recent content in SOC on R1ddl3</description>
+    <image>
+      <url>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Nov 2022 02:27:46 +0200</lastBuildDate><atom:link href="https://r1ddll3.github.io/tags/soc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Can We Monitor</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/nsm-and-csm/</link>
+      <pubDate>Wed, 02 Nov 2022 02:27:46 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/nsm-and-csm/</guid>
+      <description>Covered NSM and CSM 2 types of monitoring.</description>
+    </item>
+    
+    <item>
+      <title>How Windows Logging Work</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/windows-logging/</link>
+      <pubDate>Fri, 28 Oct 2022 00:23:50 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/windows-logging/</guid>
+      <description>How Windows Logging Work.</description>
+    </item>
+    
+    <item>
+      <title>Spotting Data Exfiltration</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/data-exfiltration/</link>
+      <pubDate>Fri, 21 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/data-exfiltration/</guid>
+      <description>How to Detect Data Exfiltration.</description>
+    </item>
+    
+  </channel>
+</rss>

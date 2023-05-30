@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>R1ddl3</title>
+    <link>https://r1ddll3.github.io/</link>
+    <description>Recent content on R1ddl3</description>
+    <image>
+      <url>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r1ddll3.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 May 2023 14:25:15 +0200</lastBuildDate><atom:link href="https://r1ddll3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raidforums Leak</title>
+      <link>https://r1ddll3.github.io/threatintel/raidforums_leak/</link>
+      <pubDate>Tue, 30 May 2023 14:25:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/threatintel/raidforums_leak/</guid>
+      <description>Raidforums Database Leak!</description>
+    </item>
+    
+    <item>
+      <title>Threat Intel Research</title>
+      <link>https://r1ddll3.github.io/threatintel/threatintel_research/</link>
+      <pubDate>Thu, 20 Apr 2023 04:53:31 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/threatintel/threatintel_research/</guid>
+      <description>Identify New Phishing Technique</description>
+    </item>
+    
+    <item>
+      <title>VishwaCTF 2023 -   Reverse Wednesday Thursday Friday</title>
+      <link>https://r1ddll3.github.io/ctfs/vishwactf/wednesday_thursday/</link>
+      <pubDate>Sun, 02 Apr 2023 23:38:15 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/vishwactf/wednesday_thursday/</guid>
+      <description>We were given a file and that file was ELF and we can determine that by using DIE After we open the file in IDA Pro and press F5 to view the pseudocode we will see below code The code performs a series of mathematical conditions using the characters in the string s and checks if the results are equal to certain specific values. If all the conditions are matached, the program will print a message that tells us if the input is valid or invalid.</description>
+    </item>
+    
+    <item>
+      <title>Analyze - SkullLocker Ransomware</title>
+      <link>https://r1ddll3.github.io/malware-analysis/skulllocker/</link>
+      <pubDate>Sat, 11 Mar 2023 06:53:09 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/malware-analysis/skulllocker/</guid>
+      <description>Full Analysis - SkullLocker</description>
+    </item>
+    
+    <item>
+      <title>Full Analysis - RedLineStealer</title>
+      <link>https://r1ddll3.github.io/malware-analysis/redlinestealer/</link>
+      <pubDate>Sun, 05 Mar 2023 22:30:48 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/malware-analysis/redlinestealer/</guid>
+      <description>Full Analysis - RedLineStealer</description>
+    </item>
+    
+    <item>
+      <title>New Phishing Technique</title>
+      <link>https://r1ddll3.github.io/threatintel/phishing_technique/</link>
+      <pubDate>Fri, 20 Jan 2023 03:32:43 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/threatintel/phishing_technique/</guid>
+      <description>Identify New Phishing Technique</description>
+    </item>
+    
+    <item>
+      <title>How Can We Monitor</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/nsm-and-csm/</link>
+      <pubDate>Wed, 02 Nov 2022 02:27:46 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/nsm-and-csm/</guid>
+      <description>Covered NSM and CSM 2 types of monitoring.</description>
+    </item>
+    
+    <item>
+      <title>How Windows Logging Work</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/windows-logging/</link>
+      <pubDate>Fri, 28 Oct 2022 00:23:50 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/windows-logging/</guid>
+      <description>How Windows Logging Work.</description>
+    </item>
+    
+    <item>
+      <title>Spotting Data Exfiltration</title>
+      <link>https://r1ddll3.github.io/dfir/soc-tips/data-exfiltration/</link>
+      <pubDate>Fri, 21 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/dfir/soc-tips/data-exfiltration/</guid>
+      <description>How to Detect Data Exfiltration.</description>
+    </item>
+    
+    <item>
+      <title>BlackHatMEA | Bus</title>
+      <link>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/bus/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/bus/</guid>
+      <description>Solving Bus Forensics Challenge.</description>
+    </item>
+    
+    <item>
+      <title>BlackHatMEA | Mem</title>
+      <link>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/mem/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/blackhatmea/forensics/mem/</guid>
+      <description>Solving Mem Forensics Challenge.</description>
+    </item>
+    
+    <item>
+      <title>BlackHatMEA | Jimmy&#39;s Blog</title>
+      <link>https://r1ddll3.github.io/ctfs/blackhatmea/web/jimmy/</link>
+      <pubDate>Sun, 02 Oct 2022 00:04:33 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/blackhatmea/web/jimmy/</guid>
+      <description>Solving Jimmy&amp;#39;s Blog Web Challenge.</description>
+    </item>
+    
+    <item>
+      <title>CTFJordan-2022 | Filterition-2</title>
+      <link>https://r1ddll3.github.io/ctfs/ctfjordan-2022/forensics/filterition-2/</link>
+      <pubDate>Fri, 30 Sep 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/ctfjordan-2022/forensics/filterition-2/</guid>
+      <description>Solving Filteration-2 Forensics Challenge.</description>
+    </item>
+    
+    <item>
+      <title>ASCWG-Finals-2022 | OSINT</title>
+      <link>https://r1ddll3.github.io/ctfs/ascwg-finals-2022/osint/payransom/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/ascwg-finals-2022/osint/payransom/</guid>
+      <description>Solving Arab Security Wargames 2022 OSINT Challenge.</description>
+    </item>
+    
+    <item>
+      <title>BYUCTF | Chicken</title>
+      <link>https://r1ddll3.github.io/ctfs/byuctf/reverse/chicken/</link>
+      <pubDate>Sat, 28 May 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/byuctf/reverse/chicken/</guid>
+      <description>Solving Chicken Reverse Challenge.</description>
+    </item>
+    
+    <item>
+      <title>BYUCTF | XQR</title>
+      <link>https://r1ddll3.github.io/ctfs/byuctf/crypto/xqr/</link>
+      <pubDate>Sat, 28 May 2022 11:51:34 +0200</pubDate>
+      
+      <guid>https://r1ddll3.github.io/ctfs/byuctf/crypto/xqr/</guid>
+      <description>Solving XQR Cryptography Challenge.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
